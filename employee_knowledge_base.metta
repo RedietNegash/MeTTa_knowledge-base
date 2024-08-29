@@ -44,7 +44,7 @@
 (Gender Ivy F)
 (Gender Jack M)
 
-;; Boss-Employee relationships
+;Boss-Employee relationships
 (Boss Alice Bob)
 (Boss Alice Charlie)
 (Boss David Emma)
